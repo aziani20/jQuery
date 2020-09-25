@@ -1,8 +1,23 @@
-h1{
-    color:yellow;
-    background-color:pink;
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    width: 200px;
+    border: 3px solid darkorange;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: cornsilk;
+    display: none;
+    margin: 5px;
+}
+
+h3 {
+    color: blue;
+    background-color: white;
     margin-top: 0px;
     padding: 7px;
     text-align: center;
-   
+    border-radius: 10px;
+    border: 1px solid gold;
 }
